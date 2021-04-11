@@ -22,4 +22,4 @@ public class Assignment3Test {
 		assertEquals(output, Assignment3.doubling(input));			//good
 		assertNotEquals(badOutput, Assignment3.doubling(input));	//bad
 	}
-}
+} 

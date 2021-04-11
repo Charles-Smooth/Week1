@@ -141,4 +141,4 @@ public class Assignment1
 		//close the scanner object
 		sc.close();
 	}
-}
+} 
