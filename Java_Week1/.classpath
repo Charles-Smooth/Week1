@@ -7,6 +7,7 @@
 	<classpathentry kind="src" path="Assignment_DayThree"/>
 	<classpathentry kind="src" path="Assignment_DayFour"/>
 	<classpathentry kind="src" path="Tests"/>
+	<classpathentry kind="src" path="Assignment_Day5"/>
 	<classpathentry kind="lib" path="C:/Users/hifly/Documents/SmoothStackWork/junit-4.12.jar"/>
 	<classpathentry kind="lib" path="C:/Users/hifly/Documents/SmoothStackWork/hamcrest-core-1.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
