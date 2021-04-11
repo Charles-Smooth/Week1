@@ -20,4 +20,4 @@ public class Assignment5Test {
 		assertTrue(a.groupSumClump(0, arr2, 14));
 		assertFalse(a.groupSumClump(0, arr3, 14));
 	}
-}
+} 

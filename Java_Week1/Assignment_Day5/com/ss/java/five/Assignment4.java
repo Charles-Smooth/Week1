@@ -10,4 +10,3 @@ public class Assignment4 {
         return list.stream().map((n) -> n.replace("x", "")).collect(Collectors.toList());		//this will remove x from the string
     }
 }
- 

@@ -10,4 +10,3 @@ public class Assignment3 {
         return list.stream().map((n) -> n * 2).collect(Collectors.toList());		//this will double the value
     }
 }
- 

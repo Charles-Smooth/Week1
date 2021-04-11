@@ -22,4 +22,4 @@ public class Assignment4Test {
 		assertEquals(output, Assignment4.noX(input));			//good
 		assertNotEquals(badOutput, Assignment4.noX(input));		//bad
 	}
-} 
+}

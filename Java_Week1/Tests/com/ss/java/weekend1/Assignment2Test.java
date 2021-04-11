@@ -22,4 +22,4 @@ public class Assignment2Test {
 		assertEquals(output, Assignment2.rightMostDigit(input));		//good	
 		assertNotEquals(badOutput, Assignment2.rightMostDigit(input));	//bad
 	}
-}
+} 
